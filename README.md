@@ -3,9 +3,9 @@ BioInfoDiary
 
 A collection of useful BioInfo techniques
 
-# How to get GI list of genes/proteins from an entire genus/species
+### How to get GI list of genes/proteins from an entire genus/species
 
-Take **Escherichia coli** for an example
+Take *Escherichia coli* for an example
 
 1. Go to NCBI, search "escherichia coli" under "Taxonomy"
 2. Click on the desired result's nucleotide or protein
