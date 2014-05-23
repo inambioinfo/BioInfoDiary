@@ -9,5 +9,6 @@ Take *Escherichia coli* for an example
 
 1. Go to NCBI, search "escherichia coli" under "Taxonomy"
 2. Click on the desired result's nucleotide or protein
-3. From the "send" option, select "file", and then select the desired format, click "apply"
-4. Congratulations, you have the file now.
+3. Under "Filter your results:", select what you need
+4. From the "send" option, select "file", and then select the desired format, click "apply"
+5. Congratulations, you have the file now.
